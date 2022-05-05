@@ -40,7 +40,7 @@ pool:
 
 jobs:
 
-- job1: helloworld
+- job: helloworld2
   steps:
 
     - script: echo "Hello, $(name)"
